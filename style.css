@@ -1,0 +1,76 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    justify-items: center;
+    background-color: #f1f1f1;
+    padding: 0 5vw; 
+}
+h2{
+    text-align: center;
+    padding: 48px;
+}
+
+.menu{
+    display: flex;
+    gap: 16px;
+}
+main{
+    margin: 24px 5vw;
+}
+.gallary{
+    display: flex;
+    justify-content: space-between;
+}
+
+.card{
+    text-align: center;
+    background-color: gainsboro;
+    padding: 10px;
+}
+
+.items{
+    display: flex;
+    justify-content: space-between;
+
+
+}
+.items img{
+    height: 200px;
+    width: 200px;
+}
+
+.gimg{
+    display: flex;
+    justify-items: center;
+    justify-content: space-between;
+    align-items: center;
+}
+
+footer{
+    text-align: center;
+}
+
+.FAQ{
+    font-size: 32px;
+}
+
+.con-details{
+    display: flex;
+    justify-content: space-between;
+    justify-items: flex-start;
+}
+
+.form{
+    display: flex;
+    flex-direction: column;
+}
+#av{
+    gap: 10px;
+}
